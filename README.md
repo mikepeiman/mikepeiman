@@ -1,5 +1,6 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+freethinker)](https://git.io/typing-svg)
+
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight">
   <img alt="Shows Mike's Github activity stats.">
