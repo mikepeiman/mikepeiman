@@ -1,6 +1,6 @@
 ### Hi there 👋 
 #[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+freethinker)](https://git.io/typing-svg)
-[!]https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight
+[!Mike Peiman Github stats](https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight)
 <!--
 **mikepeiman/mikepeiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
