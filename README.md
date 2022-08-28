@@ -1,5 +1,5 @@
-### Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+freethinker)](https://git.io/typing-svg)
+# Hi, I'm Mike. Nice to meet you. I am a:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+and+freethinker)](https://git.io/typing-svg)
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight">
