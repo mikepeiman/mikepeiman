@@ -1,6 +1,12 @@
 ### Hi there 👋 
 #[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+freethinker)](https://git.io/typing-svg)
-[!Mike Peiman Github stats](https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight)
+[!Mike Peiman Github stats](https://camo.githubusercontent.com/296199acff24e3cb082e4689e44acfc96728c6f4285e12f09cfd29e3f86933fb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7368696e6f6b6164612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874)(https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 <!--
 **mikepeiman/mikepeiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
