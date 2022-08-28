@@ -1,6 +1,5 @@
-# Hi, I'm Mike. It's nice to meet you. I am a:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer,+father,+freethinker)](https://git.io/typing-svg)
-
+# Hi, I'm Mike, a [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=frontend+developer;father;freethinker)](https://git.io/typing-svg)
+## It's nice to meet you. Feel free to get in touch - say [hello](mailto:hello@mikepeiman.dev)
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight">
   <img alt="Shows Mike's Github activity stats.">
