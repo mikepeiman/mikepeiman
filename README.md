@@ -1,4 +1,4 @@
-## <p>Hi, I'm Mike, a </p><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=24&duration=2000&pause=500&color=A9CDF3&background=1A1A1A&vCenter=true&width=435&&height=50&lines= web developer; entrepreneur; maker; father"> 
+## <p>Hi, I'm Mike, a </p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=web+developer;product+visionary;entrepreneur;father)](https://git.io/typing-svg)
 ### It's nice to meet you. Feel free to get in touch - say [hello](mailto:hello@mikepeiman.dev)
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight">
