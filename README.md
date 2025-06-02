@@ -1,4 +1,4 @@
-## <p>Hi, I'm Mike, a </p><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=24&duration=2000&pause=500&color=A9CDF3&background=1A1A1A&vCenter=true&width=435&&height=50&lines= frontend+developer; father; freethinker"> 
+## <p>Hi, I'm Mike, a </p><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=24&duration=2000&pause=500&color=A9CDF3&background=1A1A1A&vCenter=true&width=435&&height=50&lines= web developer; entrepreneur; maker; father"> 
 ### It's nice to meet you. Feel free to get in touch - say [hello](mailto:hello@mikepeiman.dev)
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=mikepeiman&show_icons=true&theme=tokyonight">
