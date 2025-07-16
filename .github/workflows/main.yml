@@ -1,3 +1,4 @@
+# .github/workflows/main.yml
 name: Generate Snake Animation
 
 on:
@@ -10,26 +11,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      # This step checks out a copy of your repository so the Action can access it
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+    timeout-minutes: 5
 
-      # This step generates the snake animation SVG file
-      - name: Generate Snake Animation
+    steps:
+      - name: Generate snake eating my contributions
         uses: Platane/snk/svg-only@v3
         with:
-          # Your GitHub username
+          # Your GitHub username is retrieved automatically
           github_user_name: ${{ github.repository_owner }}
           
-          # The output file for the SVG
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # The list of outputs to generate
+          # This will create a file named `github-contribution-grid-snake.svg`
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # This step pushes the generated SVG file back to your repository
-      - name: Push Snake Animation to `output` Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           # The branch to push the generated file to
           target_branch: output
