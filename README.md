@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/mikepeiman/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
   </a>
-  <a href="mailto:mike@mikepeiman.com">
+  <a href="mailto:hello@mikepeiman.dev">
     <img src="https://img.shields.io/badge/Contact-%40Email-blue?style=for-the-badge&logo=gmail" alt="Contact by Email" />
   </a>
 </p>
